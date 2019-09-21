@@ -155,7 +155,7 @@ var data = [
             </br>- Technical support for the team, helping to learn the technology and methodologies used by the client; \
             </br>- Development of fullstack of evolutionary, as well as acting in corrections punctual of reported bugs in \
             production; \
-            </br>- Support as a call center and in the implantations of the system in production. \
+            </br>- Support as a call center and on client deployments of the system in production. \
             </br>- Acting as a Configuration Analyst, taking care of versioning and version control through tools like Jenkins and \
             GIT. \
             </br>Team member of the first agile cell using the SCRUM methodology of the software factory. \
