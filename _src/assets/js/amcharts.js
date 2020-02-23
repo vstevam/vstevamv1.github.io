@@ -46,12 +46,13 @@ chart.data = [
               ]
               },
               {
-                name: "JavaScript",
+                name: "JS & TS",
                 children: [
                   { name: "Node.js", value: 100 },
                   { name: "Express", value: 100 },
                   { name: "Fastify", value: 100 },
-                  { name: "Angular", value: 100 }
+                  { name: "Angular", value: 100 },
+                  { name: "NestJS", value: 100 }
                 ]
                 },
         ]

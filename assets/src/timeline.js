@@ -217,15 +217,15 @@ var data = [
             </br>Dominate core concepts of programming to easily adapt to work with \
             several languages collaborating with internal teams and vendors to fix and improve products\
             in a agile environment. \
+            <p><h4>Codefi</h4> \
+            Codefi is the blockchain operating system powering Commerce and Finance,\
+            built to optimize business processes and digitize financial instruments.\
+            </br><strong>Technologies:</strong> Auth0, NestJS, Fastify, Web3, Orchestrate, K8s, AWS, Helm, TypeScript and NodeJS;\
             <p><h4>Pantheon - Privacy</h4> \
             Pantheon is an open-source Ethereum client developed under the Apache 2.0 license and written in Java.\
             It runs on the Ethereum public network, private networks, and test networks such as Rinkeby, Ropsten, and Görli.\
             Pantheon implements Proof of Work (Ethash) and Proof of Authority (IBFT 2.0 and Clique) consensus mechanisms.\
-            </br><strong>Technologies:</strong> Web3j, Gradle, JUnit, Spring and Java;\
-            <p><h4>Codefi</h4> \
-            Codefi is the blockchain operating system powering Commerce and Finance,\
-            built to optimize business processes and digitize financial instruments.\
-            </br><strong>Technologies:</strong> Auth0, Fastify, K8s, AWS, Helm, TypeScript and NodeJS;' 
+            </br><strong>Technologies:</strong> Web3j, Gradle, JUnit, Spring and Java;' 
         }]
     }];
 
