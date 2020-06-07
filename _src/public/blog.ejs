@@ -1,0 +1,19 @@
+<!-- Main -->
+<div id="main" class="wrapper style1">
+	<div class="container">
+		<header class="major">
+			<h2>Blog</h2>
+			<p>Welcome to my world, this is my blog where I share my thoughts with my future self.</p>
+		</header>
+
+		<!-- Content -->
+		<section id="content">
+			<% for(var slug in public.posts._data){ %>
+				<h2><a href="/blog/posts/<%= slug %>"><%= public.posts._data[slug].title %></a></h2>
+				<%- partial("blog/posts/" + slug) %> 
+			  <% }; %>
+
+		</section>
+
+	</div>
+</div>
